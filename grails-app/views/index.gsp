@@ -11,7 +11,7 @@
 
 </g:form>
 
-<p><H5>If you are not a user sign up here</H5></p> <br>
+<p><H5>If are not a user sign up here</H5></p> <br>
 
 <g:form controller = "user" action="signUp" method="post">
 FirstName: <g:textField name = "firstName"></g:textField><br>
